@@ -1,6 +1,6 @@
 # Hi, I'm George 👋
 
-I'm a second-year Computer Science student at the **University of Sussex**, with a strong interest in using data and technology to solve real-world problems. I'm currently looking for a **Data & Analytics placement year starting July 2027**.
+I'm a second-year Computer Science student at the **University of Sussex**, with a strong interest in using data and technology to solve real-world problems. I'm currently looking for a **placement year starting July 2027**.
 
 ## 💫 What I'm up to
 
@@ -11,7 +11,7 @@ I'm a second-year Computer Science student at the **University of Sussex**, with
 
 ## 🛠️ Things I've built
 
-- **[OpenG1](https://github.com/GeorgeHappold):** open-source humanoid robot based on the Unitree G1, redesigned so almost every structural part can be printed on a desktop 3D printer. I recorded human motion data to help teach it to balance, and I'm building a vision-language model (VLM) interface for prompting the robot to move.
+- **[OpenG1](https://open3dhumanoid.github.io/index.html):** open-source humanoid robot based on the Unitree G1, redesigned so almost every structural part can be printed on a desktop 3D printer. I recorded human motion data to help teach it to balance, and I'm building a vision-language model (VLM) interface for prompting the robot to move.
 - **Video-Synced Olfactory Display:** a four-channel scent display (ESP32, relay board, micro air pumps) with C++ firmware and a Python script that triggers scents from a timestamped cue list as a video plays.
 - **FPL Points Predictor and Squad Optimiser:** a Python pipeline over 140,000+ player-gameweek records, using LightGBM to predict Fantasy Premier League points (rank correlation for regular starters up from 0.30 to 0.38 vs a recent-form baseline on unseen 2024-25 data). Squad selection and transfers are solved as a mixed-integer linear programme with SciPy and backtested over a full season.
 - **Global Design Challenge (finalist):** led a team of 5 designing a 3D-printed hydroponic communal garden for the Ladywood community in Birmingham, and reached the global finals.
@@ -21,7 +21,7 @@ I'm a second-year Computer Science student at the **University of Sussex**, with
 
 ## 📫 Get in touch
 
-[george@happold.org](mailto:george@happold.org) · [Website](https://george.happold.org) · [LinkedIn](https://linkedin.com/in/georgehappold)
+[Website](https://george.happold.org) · [LinkedIn](https://linkedin.com/in/georgehappold)
 
 ## 💻 Tech Stack
 
@@ -38,6 +38,5 @@ I'm a second-year Computer Science student at the **University of Sussex**, with
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=GeorgeHappold&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=GeorgeHappold&icon=0&color=8)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
